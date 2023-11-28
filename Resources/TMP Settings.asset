@@ -32,16 +32,16 @@ MonoBehaviour:
   m_IsTextObjectScaleStatic: 0
   m_fallbackFontAssets: []
   m_matchMaterialPreset: 1
-  m_defaultSpriteAsset: {fileID: 11400000, guid: c41005c129ba4d66911b75229fd70b45,
+  m_defaultSpriteAsset: {fileID: 11400000, guid: 746df07ba5365954a8565067366ad4c5,
     type: 2}
   m_defaultSpriteAssetPath: Sprite Assets/
   m_enableEmojiSupport: 1
   m_MissingCharacterSpriteUnicode: 0
   m_defaultColorGradientPresetsPath: Color Gradient Presets/
-  m_defaultStyleSheet: {fileID: 11400000, guid: f952c082cb03451daed3ee968ac6c63e,
+  m_defaultStyleSheet: {fileID: 11400000, guid: e2d8517da74a0c540b64d93b3076850b,
     type: 2}
   m_StyleSheetsResourcePath: 
-  m_leadingCharacters: {fileID: 4900000, guid: d82c1b31c7e74239bff1220585707d2b, type: 3}
-  m_followingCharacters: {fileID: 4900000, guid: fade42e8bc714b018fac513c043d323b,
+  m_leadingCharacters: {fileID: 4900000, guid: 2d7e54690f7b72143874eec3f1d0d95d, type: 3}
+  m_followingCharacters: {fileID: 4900000, guid: 22a85f5655fa0b442851a7f95ab2a370,
     type: 3}
   m_UseModernHangulLineBreakingRules: 0
